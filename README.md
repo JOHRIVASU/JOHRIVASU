@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasu Johri</h1>
-<h3 align="center">A passionate ML enthusiast</h3>
+<h3 align="center">A ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johrivasu&label=Profile%20views&color=0e75b6&style=flat" alt="johrivasu" /> </p>
 
